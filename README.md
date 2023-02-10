@@ -130,8 +130,6 @@ To run tests use Linters
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] **[Sign In and Sign Out]**
