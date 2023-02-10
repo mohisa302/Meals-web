@@ -124,7 +124,7 @@ To run tests use Linters
 
 👤 **Author3**
 
-- GitHub: [@githubhandle](https://github.com/(https://github.com/huzaifakhan0308/)
+- GitHub: [@githubhandle](https://github.com/huzaifakhan0308/)
 - Twitter: [@twitterhandke](https://twitter.com/huzaifakhan0308/)
 - linkedIn: [@linkedinhandle](https://www.linkedin.com/in/huzaifa-khan-938140256/)
 
